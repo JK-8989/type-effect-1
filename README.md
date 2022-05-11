@@ -1,3 +1,3 @@
 # type-effect-1
 
-to try typing effect in a different way
+typing effect with blinking cursor
